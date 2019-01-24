@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\bin\Debug\OverrideStudent.exe.config
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\bin\Debug\OverrideStudent.exe
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\bin\Debug\OverrideStudent.pdb
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\obj\Debug\OverrideStudent.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\obj\Debug\OverrideStudent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\obj\Debug\OverrideStudent.exe
+C:\Users\hp\source\repos\OverrideStudent\OverrideStudent\obj\Debug\OverrideStudent.pdb
