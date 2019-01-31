@@ -1,0 +1,18 @@
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.exe.config
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.exe
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.pdb
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.exe
+C:\Users\hp\source\repos\BookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.pdb
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.exe.config
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.exe
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\BookSerializableExample.pdb
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\Newtonsoft.Json.dll
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\Newtonsoft.Json.pdb
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\bin\Debug\Newtonsoft.Json.xml
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.csprojAssemblyReference.cache
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.csproj.CoreCompileInputs.cache
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.csproj.CopyComplete
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.exe
+E:\Wantsome\Curs16.ADO.NET - EntityRelationship-Serialize and Deserialize\XMLBookSerializableExample\BookSerializableExample\obj\Debug\BookSerializableExample.pdb

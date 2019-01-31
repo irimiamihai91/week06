@@ -1,0 +1,1 @@
+[{"BookId":1,"Title":"Cartea Cartilor","Year":1995,"Price":0.0},{"BookId":2,"Title":"Achile","Year":2000,"Price":20.0}]

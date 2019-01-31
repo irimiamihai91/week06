@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookId>1</BookId>
+    <Name>Cartea Cartilor</Name>
+    <Year>1995</Year>
+    <Price>0</Price>
+  </Book>
+  <Book>
+    <BookId>2</BookId>
+    <Name>Achile</Name>
+    <Year>2000</Year>
+    <Price>20</Price>
+  </Book>
+</ArrayOfBook>
