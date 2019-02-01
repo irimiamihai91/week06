@@ -1,0 +1,46 @@
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\ConsoleApp78.exe.config
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\ConsoleApp78.exe
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\ConsoleApp78.pdb
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\obj\Debug\ConsoleApp78.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\obj\Debug\ConsoleApp78.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\obj\Debug\ConsoleApp78.csproj.CopyComplete
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\obj\Debug\ConsoleApp78.exe
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\obj\Debug\ConsoleApp78.pdb
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SystemMetadataProvider.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\source\repos\ConsoleApp78\ConsoleApp78\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\ConsoleApp78.exe.config
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\ConsoleApp78.exe
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\ConsoleApp78.pdb
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\EntityFramework.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\EntityFramework.SqlServer.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SystemMetadataProvider.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\EntityFramework.xml
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\bin\Debug\EntityFramework.SqlServer.xml
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\obj\Debug\ConsoleApp78.csprojAssemblyReference.cache
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\obj\Debug\ConsoleApp78.csproj.CoreCompileInputs.cache
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\obj\Debug\ConsoleApp78.csproj.CopyComplete
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\obj\Debug\ConsoleApp78.exe
+E:\Wantsome\week06\Homework14.XML-JSON-Entity Framework\EntityFrameworkExample\ConsoleApp78\obj\Debug\ConsoleApp78.pdb

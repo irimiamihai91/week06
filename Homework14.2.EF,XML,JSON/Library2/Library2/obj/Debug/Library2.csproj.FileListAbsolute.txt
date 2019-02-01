@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Library2\Library2\obj\Debug\Library2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Library2\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Library2.exe.config
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Library2.exe
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Library2.pdb
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Library2\Library2\obj\Debug\Library2.csproj.CopyComplete
+C:\Users\hp\source\repos\Library2\Library2\obj\Debug\Library2.exe
+C:\Users\hp\source\repos\Library2\Library2\obj\Debug\Library2.pdb
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hp\source\repos\Library2\Library2\bin\Debug\Newtonsoft.Json.xml
