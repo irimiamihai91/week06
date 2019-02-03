@@ -16,6 +16,16 @@ namespace ConsoleApp78
 
             BookPublisherEntities bp = new BookPublisherEntities();
 
+            bp.Books.Add(new Book()
+            {
+                BookId = 1,
+                Title = "ds",
+                PublisherId = 2,
+                Year = 1991,
+                Price = 12,
+            });
+            bp.SaveChanges();
+
             //AllBooksWhereYearIs2017(bp);
 
             //AddBook(bp);
@@ -34,7 +44,7 @@ namespace ConsoleApp78
 
             //SelectPublisherWhereNameIsSamsung();
 
-            Book.InsertBook("Cartea mea", new Publisher(2), 2001, 2);
+            //Book.InsertBook("Cartea mea", new Publisher(2), 2001, 2);
 
             Console.ReadKey();
         }

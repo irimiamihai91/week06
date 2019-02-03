@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns = "hhtp://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/> 
+        <title>Table</title>
+        <link href="table.css" rel="stylesheet" type = "text/css"></link> 
+    </head>
+<body style="background-color:whitesmoke;" >
+    <div>
+    <h1 style="position:absolute; left:300px"><em>Fresh Fruit</em></h1>
+     <p style="position:absolute;font-size:140%; bottom: 450px"><em>It has long been known that a diet <br>that includes at least a few <br>serving of fresh fruit every day <br> will help keep you healthy, fit and <br>trim.</em></p>
+    <img style="position:absolute;TOP:90px; LEFT:400px;"  src="E:\Wantsome\week06\Homework15.HTML-CSS\Fruitsjpg.jpg" alt="Fruits" width="250px">
+    <table style="position:absolute;top:300px; height:40px ;">
+        <tr>
+            <th colspan = "3">Title goes here</th>
+            <th>A</th>
+            <th>B</th>
+        </tr>
+        <tr>
+        <th rowspan="3">C
+
+        
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+            <td>G</td>
+            
+        </tr>
+        <tr>
+                <td>H</td>
+                <td colspan="2" >I</td>
+                <td rowspan="2">J</td>
+        </tr>
+        <tr>
+                <td>K</td>
+                <td>L</td>
+                <td>M</td>
+        </tr>
+        <tr>
+            <td>N</td>
+            <td colspan="4">O</td>
+        </tr>
+    </table>
+    
+    </div>
+</body>
+</html>

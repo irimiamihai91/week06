@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns = "hhtp://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/> 
+        <title>Home</title>
+    </head>
+<body style="background-color:cadetblue;" >
+    <div>
+        <h1>Doge Social Network</h1>
+        <ul style="list-style-type:disc">
+            <li> <a href="file:///E:/Wantsome/Curs17.HTML-CSS/home.html">Home</a> </li>
+            <li> <a href="file:///E:/Wantsome/Curs17.HTML-CSS/profile.html">Profile</a> </li>
+            <li> <a href="file:///E:/Wantsome/Curs17.HTML-CSS/friend.html">Friends</a> </li>
+        </ul>
+    <hr></hr>
+    <h2>Profile of Doge</h2>
+    <hr></hr>
+    <img src="C:\Users\hp\Desktop\download.jpg" alt="Doge">
+    <p><strong>Name:</strong>Doge</p>
+    <p><strong>Birthday:</strong>Top secret</p>
+    <p><strong>Ocupation:</strong>Celebrity</p>
+    <p><strong>Area of occupation:</strong>Web</p>
+    </div>
+</body>
+</html>
