@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8"/> 
+      <title>Registration Form</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="css/css/bootstrap.min.css">
+    </head>
+  <body>
+    <div class="container">
+    <form action="/action_page.php">
+      <table border: 0.5px solid gray cellspacing="0" cellpadding="5">
+        <tr>
+          <td>
+            <label for="lastname" style="text-align:right;font-weight:bold">Last Name</label>
+          </td>
+          <td>
+            <input type="text" name="lastname" value="Nakov"/>
+          </td>  
+        </tr>
+        <tr>
+          <td>
+            <label for="firstname" style="text-align:right;font-weight:bold">First Name</label>
+          </td>
+          <td>
+            <input type="text" name="firstname" value="Svetlin"/>
+          </td>  
+        </tr>
+        <tr>
+          <td>
+            <label for="adress" style="text-align:right;font-weight:bold">Adress</label>
+          </td>
+          <td>
+            <textarea name="Adress"  cols="20" rows="4" >17 Hristov botev</textarea>
+          </td>  
+        </tr>
+        <tr>
+          <td>
+            <label for="City" style="text-align:right;font-weight:bold;">City</label>
+          </td>
+          <td>
+            <input type="text" name="city" value="Kaspichan"/>
+            <label for="State" style="text-align:right;font-weight:bold">State</label>
+            <input type="text" name="state" value="" size="2"/>
+          </td>  
+        </tr>
+        <tr>
+          <td>
+            <label for="zip" style="text-align:right;font-weight:bold;">Zip/PostalCode</label>
+          </td>
+          <td>
+            <input type="text" name="postalcode" value="9325"/>
+          </td>  
+        </tr>
+        <tr>
+          <td> 
+            <label for="country"style="text-align:right;font-weight:bold;">Country</label>
+          </td>
+          <td>
+            <select name="country">
+              <option value= "value1">Romania</option>                                 
+              <option value="value2"selected="selected">Bulgaria</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label for="phone"style="text-align:right;font-weight:bold;">Phone(country code,area code,number)</label>
+          </td>
+          <td>
+            (+<input type="text" value="359" size="1"/>)
+            <input type="text" value="88" size="1"/> -
+            <input type="text" value="8334343" size="15"/>
+            </td>
+        </tr>
+        <tr>
+          <td>
+            <label for="email"style="text-align:right;font-weight:bold;">Email</label>
+          </td>
+          <td>
+            <input type="text" value="nakov@Kaspichan.org" size="35"/>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label style="text-align:right;font-weight:bold;">Birth date</label>
+          </td>
+          <td>
+            Month <input type="number" value="06" size ="2" min="1" max="12"/>
+            Day <input type="number" value="14" min="1" max="31" size="2"/>
+            Year (4digit) <input type="number" value="1980" max="2019" size="4"/>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label style="text-align:right;font-weight:bold;">Gender</label>
+          </td>
+          <td>
+            <select>
+              <option selected="selected">Male</option>
+              <option>Female</option>
+              <option>Other</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label style="text-align:right;font-weight:bold;">Starting date</label>
+          </td>
+          <td>
+            Spring 2006<input type="radio" selected="selected" name="spring" value="Spring 2006" />
+            Summer 2006 <input type="radio" name="summer" value="Summer 2006" />
+          </td>
+        </tr>
+        <tr>
+        <tr>
+          <td>
+            <label style="text-align:right;font-weight:bold;">Comments/Questions:</label>
+          </td>
+          <td>
+            <textarea name="comments" cols="35" rows="4"></textarea>
+          </td>
+        </tr>
+      <tfoot style="background-color:cadetblue">
+        <tr>
+          <td colspan="2" style="text-align:center;">
+            <input type="submit" value="Submit" />
+            <input type="reset" value="Clear This Form" />
+          </td>
+        </tr>
+      </tfoot>
+<style>
+td
+{
+border: 0.5px solid gray
+}          
+</style>
+
+    </table>
+  </form> 
+</div>
+</body>
+</html>

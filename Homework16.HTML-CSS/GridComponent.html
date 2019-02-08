@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/css/bootstrap.min.css">
+    <link rel="stylesheet" href="GridComponent.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+            <table class="table table-bordered">
+                        <colgroup>
+                            <col width="100" />
+                            <col width="220" />
+                            <col width="180" />
+                            <col width="150" />
+                            <col width="130" />
+                            <col width="100" />
+                        </colgroup>
+                    <tr id="tr1">
+                        <th colspan="6">Drag a column header and drop it here to group by that column</th>
+                    </tr>
+                    <tr id="tr2">
+                        <td>ProductID</td>
+                        <td>Product name</td>
+                        <td>Unit price</td>
+                        <td>Quantity per unit</td>
+                        <td>Units in stock</td>
+                        <td>Discontinued</td>
+                    </tr>
+                    <tr id="tr3">
+                            <td> <input type="text" name="ProductID" value="" size="2"></td>
+                            <td> <input type="text" name="ProductName" value="" size="10"></td>
+                            <td> <input type="text" name="UnitPrice" value="" size="5"></td>
+                            <td> <input type="text" name="QuantityPerUnit" value="" size="6"></td>
+                            <td> <input type="text" name="UnitsInStock" value="" size="5"></td>
+                            <td><input type="checkbox" name="Discontinued"></td>
+                    </tr>
+                    <tr>
+                            <td>1</td>
+                            <td>Chai</td>
+                            <td>$18.00</td>
+                            <td>10 boxes x 20 bags</td>
+                            <td>39</td>
+                            <td><input type="checkbox" name="Discontinued" disabled ></td>
+                    </tr>
+                    <tr>
+                            <td>2</td>
+                            <td>Chang</td>
+                            <td>$19.00</td>
+                            <td>24-12 oz bottles</td>
+                            <td>17</td>
+                            <td><input type="checkbox" name="Discontinued" disabled ></td>
+                    </tr>
+                    <tr>
+                            <td>3</td>
+                            <td>Anissed Syrup</td>
+                            <td>$10.00</td>
+                            <td>12-550 ml bottles</td>
+                            <td>13</td>
+                            <td><input type="checkbox" name="Discontinued" disabled ></td>
+                    </tr>
+                    <tr>
+                            <td>4</td>
+                            <td>Chef Anton's Cajun Seasoning</td>
+                            <td>$22.00</td>
+                            <td>48-6 oz jars</td>
+                            <td>53</td>
+                            <td><input type="checkbox" name="Discontinued" disabled ></td>
+                    </tr>
+                    <tr>
+                            <td>5</td>
+                            <td>Chef Anton's Gumbo Mix</td>
+                            <td>$21.35</td>
+                            <td>36 boxes</td>
+                            <td>0</td>
+                            <td><input type="checkbox" name="Discontinued" disabled checked></td>
+                    </tr>
+                    <tr>
+                            <td>6</td>
+                            <td>Grandma's Boysenberry Spread</td>
+                            <td>$25.00</td>
+                            <td>12-8 oz jars</td>
+                            <td>120</td>
+                            <td><input type="checkbox" name="Discontinued" disabled></td>
+                    </tr>
+                    <tr>
+                            <td>7</td>
+                            <td>Uncle Bob's Organic Dried Pears</td>
+                            <td>$30.00</td>
+                            <td>12-1 lb pkgs.</td>
+                            <td>15</td>
+                            <td><input type="checkbox" name="Discontinued" disabled></td>
+                    </tr>
+                    <tr>
+                            <td>8</td>
+                            <td>Northwoods Cranberry Sauce</td>
+                            <td>$40.00</td>
+                            <td>12-12 oz jars</td>
+                            <td>6</td>
+                            <td><input type="checkbox" name="Discontinued" disabled></td>
+                    </tr>
+                    <tr>
+                            <td>9</td>
+                            <td>Mishi Kobe Niku</td>
+                            <td>$97.00</td>
+                            <td>18-500 g pkgs.</td>
+                            <td>29</td>
+                            <td><input type="checkbox" name="Discontinued" disabled checked></td>
+                    </tr>
+                    <tr>
+                            <td>10</td>
+                            <td>Ikura</td>
+                            <td>$31.00</td>
+                            <td>12-200 ml jars</td>
+                            <td>31</td>
+                            <td><input type="checkbox" name="Discontinued" disabled></td>
+                    </tr>
+                    <tr>
+                        <tfoot>
+                            <td id="td1" colspan="2">
+                                <button>|&#x25C0</button> 
+                                <button>&#x25C0</button>
+                                <a href="GridComponent.html">1</a>
+                                <a href="GridComponent.html">2</a>
+                                <a href="GridComponent.html">3</a>
+                                <a href="GridComponent.html">4</a>
+                                <a href="GridComponent.html">5</a>
+                                <a href="GridComponent.html">6</a>
+                                <a href="GridComponent.html">7</a>
+                                <a href="GridComponent.html">8</a>
+                                <a href="GridComponent.html">9</a>
+                                <a href="GridComponent.html">10</a>
+                                ...
+                                <button>&#9658</button>
+                                <button>|&#9658</button>
+                            </td>
+                            <td id="td2"colspan="2">
+                                Page size:
+                                <select name="page">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10" selected>10</option>
+                                </select>
+                            </td>
+                            <td id="td3" colspan="2">
+                            <p style="text-align:right">335104 items in 33511 pages</p>
+                            </td>   
+                            
+                        </tfoot>
+                    </tr>
+            </table>
+    </div>
+</body>
+</html>
